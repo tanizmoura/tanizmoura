@@ -1,16 +1,17 @@
-## Hi there 👋
+# Tanise Moura 
 
-<!--
-**tanizmoura/tanizmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 Quem sou eu
+Nascida e criada na cidade de Porto Alegre - RS, tenho 30 anos e sempre tive um certo facínio pela tecnologia. Fiz vários cursos online, porém nunca consegui focar de fato então acabei perdendo a prática do que aprendi. Agora eu quero recomeçar para entrar na carreira que eu realmente quero que é a de desenvolvedora web fullstack.
 
-Here are some ideas to get you started:
+## 💻 Habilidades
+| Front-end | Back-end |
+|------------|----------|
+|Html, CSS|Python|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### - Inglês: Intermediário
+
+## ✉ Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanise-moura/)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tanise.mourax3@hotmail.com)
