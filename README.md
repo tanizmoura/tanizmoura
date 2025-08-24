@@ -6,7 +6,7 @@ Nascida e criada na cidade de Porto Alegre - RS, tenho 30 anos e sempre tive um 
 ## 💻 Habilidades
 | Front-end | Back-end |
 |------------|----------|
-|Html, CSS|Python|
+|Html, CSS, JavaScript|Python|
 
 #### - Inglês: Intermediário
 
@@ -15,3 +15,4 @@ Nascida e criada na cidade de Porto Alegre - RS, tenho 30 anos e sempre tive um 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanise-moura/)
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tanise.mourax3@hotmail.com)
+
